@@ -6,8 +6,7 @@
   simultaneously connected streaming clients.
   Simultaneous streaming is implemented with dedicated FreeRTOS tasks.
 
-  Inspired by and based on this Instructable: $9 RTSP Video Streamer Using the ESP32-CAM Board
-  (https://www.instructables.com/id/9-RTSP-Video-Streamer-Using-the-ESP32-CAM-Board/)
+  Inspired by and based on this https://github.com/arkhipenko/esp32-mjpeg-multiclient-espcam-drivers
 
   Board: AI-Thinker ESP32-CAM or ESP-EYE
   Compile as:
