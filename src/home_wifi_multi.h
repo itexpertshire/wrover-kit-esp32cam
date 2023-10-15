@@ -1,11 +1,11 @@
-    #define COMMON_WIFI_PWD "81249022"
+    #define COMMON_WIFI_PWD "*****"
 
-  #define SSID1 "E24_Ext"
-  #define PWD1 "sameer007"
-  #define SSID2 "Elly"
-  #define PWD2 "sameer007"
-  #define SSID3 "Elly_EXT"
-  #define PWD3 "sameer007"
+  #define SSID1 "******"
+  #define PWD1 "*******"
+  #define SSID2 "*****"
+  #define PWD2 "*****"
+  #define SSID3 "*****"
+  #define PWD3 "*****"
 
 #if defined(CAMERA_MODEL_WROVER_KIT)
 #define ServerName "esp32wrovercam"
