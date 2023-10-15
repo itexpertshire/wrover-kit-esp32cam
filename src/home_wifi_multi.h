@@ -1,7 +1,7 @@
-    #define COMMON_WIFI_PWD "*****"
+    #define COMMON_WIFI_PWD "81249022"
 
-  #define SSID1 "******"
-  #define PWD1 "*******"
+  #define SSID1 "Elly"
+  #define PWD1 "samr"
   #define SSID2 "*****"
   #define PWD2 "*****"
   #define SSID3 "*****"
