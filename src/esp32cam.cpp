@@ -765,7 +765,7 @@ void setup()
 #endif
 
 #if defined(CAMERA_MODEL_WROVER_KIT)
-// initialize the Red pin as an output to display WiFi connection status
+// initialize the Blue pin as an output to display WiFi connection status
   pinMode(2, OUTPUT);
   pinMode(2, HIGH);
   //esp_sleep_enable_ext0_wakeup(GPIO_NUM_2,1); //1 = High, 0 = Low

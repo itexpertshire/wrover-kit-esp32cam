@@ -1,4 +1,4 @@
-    #define COMMON_WIFI_PWD "**"
+    #define COMMON_WIFI_PWD "81249022"
 
   #define SSID1 "*****"
   #define PWD1 "******"
