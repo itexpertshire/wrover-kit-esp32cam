@@ -897,7 +897,7 @@ void loop() {
      //   esp_deep_sleep_start();
      //}
      //Serial.println("WiFi Signal Strength"+String(WiFi.RSSI()));
-     delay(500);
+     //delay(500);
 
   } else {
     #if defined(CAMERA_MODEL_AI_THINKER)   
@@ -910,6 +910,7 @@ void loop() {
     delay(1000);
     ESP.restart();
   }
+  
   // this seems to be necessary to let IDLE task run and do GC
   vTaskDelay(1000);
 }
